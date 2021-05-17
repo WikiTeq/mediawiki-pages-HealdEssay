@@ -1,0 +1,15 @@
+/**
+* Inline formatting of a series of elements
+*/
+
+.enum-series .enum-el::after {
+     content: ',\00a0';
+}
+.enum-series .enum-el:last-of-type::after, 
+.enum-series .enum-el:nth-last-child(2)::after {
+     content: '';
+}
+.enum-series .enum-el:last-of-type::before {
+     content: '\00a0 and \00a0';
+}
+<noinclude>[[Category:Mediawiki-pages-heald-essays]]</noinclude>

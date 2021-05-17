@@ -1,0 +1,10 @@
+<includeonly><table>
+<tr>
+  <td> '''Subtitle:''' </td>
+  <td> {{{field{{!}}Subtitle}}} </td>
+</tr>
+<tr>
+  <td> '''Authors:''' </td>
+  <td> {{{field{{!}}Authors{{!}}input type=tokens{{!}}values from property=Author{{!}}list{{!}}delimiter=;}}} </td>
+</tr>
+</table></includeonly><noinclude>[[Category:Mediawiki-pages-heald-essays]]</noinclude>

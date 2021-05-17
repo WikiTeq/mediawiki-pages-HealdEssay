@@ -1,0 +1,58 @@
+{
+    "publisher": "WikiTeq",
+    "author": "WikiTeq",
+    "language": "en",
+    "url": "https:\/\/github.com\/WikiTeq\/mediawiki-pages-HealdEssay",
+    "packages": {
+        "HEALDEssays": {
+            "globalID": "heald-essays",
+            "description": "Provides a collection of wiki pages for easy inclusion of Essay fields and semantics in Mediawiki projects (HEALD wiki).",
+            "version": "0.1",
+            "pages": [
+                {
+                    "name": "Essay",
+                    "namespace": "PF_NS_FORM",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdEssay\/master\/Form%2FEssay.mediawiki"
+                },
+                {
+                    "name": "Enum-series.css",
+                    "namespace": "NS_MEDIAWIKI",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdEssay\/master\/MediaWiki%2FEnum-series.css.mediawiki"
+                },
+                {
+                    "name": "Author",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdEssay\/master\/Property%2FAuthor.mediawiki"
+                },
+                {
+                    "name": "Subtitle",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdEssay\/master\/Property%2FSubtitle.mediawiki"
+                },
+                {
+                    "name": "Essay",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdEssay\/master\/Template%2FEssay.mediawiki"
+                },
+                {
+                    "name": "Essay field set",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdEssay\/master\/Template%2FEssay%20field%20set.mediawiki"
+                },
+                {
+                    "name": "Essays",
+                    "namespace": "NS_CATEGORY",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-HealdEssay\/master\/Category%2FEssays.mediawiki"
+                }
+            ],
+            "requiredExtensions": [
+                    "SemanticMediaWiki",
+                    "PageForms",
+                    "ParserFunctions"
+            ],
+            "requiredPackages": [
+                    "heald-images"
+            ],
+        }
+    }
+}
