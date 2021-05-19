@@ -9,7 +9,6 @@ Provides a collection of wiki pages for easy inclusion of Essay fields and seman
 * PageForms
 * ParserFunctions (`$wgPFEnableStringFunctions = true;`)
 * PagePort or PageExchange
-* https://github.com/WikiTeq/heald-images
 
 # Setup
 
