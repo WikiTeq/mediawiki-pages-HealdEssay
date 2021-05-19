@@ -49,9 +49,6 @@
                     "SemanticMediaWiki",
                     "PageForms",
                     "ParserFunctions"
-            ],
-            "requiredPackages": [
-                    "heald-images"
             ]
         }
     }

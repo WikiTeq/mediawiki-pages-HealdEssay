@@ -1,8 +1,4 @@
-<includeonly>
-'''Subtitle:''' {{{Subtitle|}}}
-
-'''Author{{#if:{{#explode:{{{Authors|}}}|;|1}}|s}}:''' <span class="enum-series">{{#arraymap: {{{Authors|}}}|;|@|<span class="enum-el">@</span>|}}</span><!--
-
+<includeonly><!--
  -->{{#set:
       |Subtitle={{{Subtitle|}}}
       |Author={{{Authors|}}}|+sep=;
