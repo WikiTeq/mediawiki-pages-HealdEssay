@@ -50,9 +50,6 @@
                     "PageForms",
                     "ParserFunctions"
             ],
-            "requiredPackages": [
-                    "heald-images"
-            ]
         }
     }
 }
