@@ -12,4 +12,5 @@
  .enum-series .enum-el:last-of-type::before {
      content: '\00a0 and \00a0';
  }
+ 
  <noinclude>[[Category:Mediawiki-pages-heald-essays]]</noinclude>
