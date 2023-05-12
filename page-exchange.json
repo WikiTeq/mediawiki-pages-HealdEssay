@@ -5,7 +5,7 @@
     "url": "https:\/\/github.com\/WikiTeq\/mediawiki-pages-HealdEssay",
     "packages": {
         "HEALDEssays": {
-            "globalID": "heald-essays",
+            "globalID": "com.wikiteq.HealdEssay",
             "description": "Provides a collection of wiki pages for easy inclusion of Essay fields and semantics in Mediawiki projects (HEALD wiki).",
             "version": "0.1",
             "pages": [
